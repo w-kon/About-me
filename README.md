@@ -1,5 +1,5 @@
 ## Меня зовут: Владислав
- ### ![](img\no-es-desarrollo-si-no-es-sostenible.jpg "")
+ ### ![ScreenShot](img/no-es-desarrollo-si-no-es-sostenible.jpg)
 
  ### Обучаюсь в https://netology.ru/ на курсах:
   
