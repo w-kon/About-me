@@ -1,13 +1,13 @@
 ## Меня зовут: Владислав
- ### ![ScreenShot](img/no-es-desarrollo-si-no-es-sostenible.jpg)
+ ![ScreenShot](img/no-es-desarrollo-si-no-es-sostenible.jpg)
 
- ### Обучаюсь в https://netology.ru/ на курсах:
+### Обучаюсь в https://netology.ru/ на курсах:
   
   - Fullstack-разработчик на Python
   - Инженер по тестированию: расширенный курс
   
   
- ### Цель обучения:
+### Цель обучения:
   
  - __Освоить новые специальности__
   
